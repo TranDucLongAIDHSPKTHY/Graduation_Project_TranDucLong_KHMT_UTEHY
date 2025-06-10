@@ -1,0 +1,7 @@
+Kết quả Switching Hybrid (MIN_RATINGS=15):
+Precision@10: 0.1820
+Recall@10: 0.0768
+NDCG@10: 0.8335
+MAP@10: 0.8323
+Diversity@10: 4.5316
+RMSE: 0.8239

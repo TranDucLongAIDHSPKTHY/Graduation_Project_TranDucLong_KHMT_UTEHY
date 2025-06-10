@@ -1,0 +1,8 @@
+Kết quả huấn luyện Content-Based trên tập validation:
+Precision@10: 0.9571
+Recall@10: 0.2674
+NDCG@10: 0.9730
+MAP@10: 0.9768
+
+Kích thước tập tain: 1035068
+Kích thước tập validation: 345023

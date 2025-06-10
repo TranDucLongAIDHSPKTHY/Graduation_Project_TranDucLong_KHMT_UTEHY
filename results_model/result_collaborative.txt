@@ -1,0 +1,7 @@
+Kết quả Collaborative Filtering:
+Precision@10: 0.5972
+Recall@10: 0.3817
+NDCG@10: 0.7896
+MAP@10: 0.6603
+Diversity@10: 9.0730
+RMSE: 0.8498

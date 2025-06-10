@@ -1,0 +1,7 @@
+Kết quả Autoencoder:
+Precision@10: 0.6703
+Recall@10: 0.4518
+NDCG@10: 0.7809
+MAP@10: 0.6558
+Diversity@10: 9.1204
+RMSE: 0.8623

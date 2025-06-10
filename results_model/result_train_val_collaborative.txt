@@ -1,0 +1,10 @@
+Kết quả huấn luyện Collaborative Filtering (SVD) trên tập validation:
+Tham số tốt nhất: {'n_factors': 50, 'n_epochs': 20, 'lr_all': 0.005, 'reg_all': 0.01}
+Precision@10: 0.5979
+Recall@10: 0.3723
+NDCG@10: 0.7883
+MAP@10: 0.6578
+
+
+Kích thước tập tain: 1035068
+Kích thước tập validation: 345023a

@@ -1,0 +1,9 @@
+Kết quả huấn luyện Switching Hybrid trên tập validation:
+Precision@10: 0.5214
+Recall@10: 0.3135
+NDCG@10: 0.7909
+MAP@10: 0.6846
+
+
+Kích thước tập tain: 1035068
+Kích thước tập validation: 345023

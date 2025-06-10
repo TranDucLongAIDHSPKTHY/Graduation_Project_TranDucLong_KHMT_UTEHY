@@ -1,0 +1,7 @@
+Kết quả đánh giá Neural Collaborative Filtering (NCF):
+Precision@10: 0.6836
+Recall@10: 0.5103
+NDCG@10: 0.7751
+MAP@10: 0.6525
+Diversity@10: 9.1308
+RMSE: 0.9031

@@ -1,0 +1,24 @@
+Kết quả huấn luyện NCF:
+Train Loss cuối cùng: 0.6451
+Val Loss cuối cùng: 0.7096
+Validation Metrics:
+Precision@10: 0.6463
+Recall@10: 0.4650
+NDCG@10: 0.7815
+MAP@10: 0.6602
+
+Kích thước tập tain: 1035068
+Kích thước tập validation: 345023
+
+
+Epoch 1/30 - Train Loss: 1.0179 - Val Loss: 0.8043 - Validation Metrics: {'Precision@10': 0.6349990627521711, 'Recall@10': 0.46032596983282353, 'NDCG@10': 0.7753058035680775, 'MAP@10': 0.656523428310412} - Time: 1434.05s
+Epoch 2/30 - Train Loss: 0.7729 - Val Loss: 0.7473 - Validation Metrics: {'Precision@10': 0.6501448733686744, 'Recall@10': 0.46745002538103747, 'NDCG@10': 0.7804838328238355, 'MAP@10': 0.6595319727181671} - Time: 1538.79s
+Epoch 3/30 - Train Loss: 0.7354 - Val Loss: 0.7311 - Validation Metrics: {'Precision@10': 0.6694005728641609, 'Recall@10': 0.49790092431370275, 'NDCG@10': 0.7820865417785406, 'MAP@10': 0.6605530481768067} - Time: 1527.21s
+Epoch 4/30 - Train Loss: 0.7187 - Val Loss: 0.7263 - Validation Metrics: {'Precision@10': 0.6594222743423455, 'Recall@10': 0.4854951087503177, 'NDCG@10': 0.7822803836598312, 'MAP@10': 0.6606602803466621} - Time: 1517.66s
+Epoch 5/30 - Train Loss: 0.7028 - Val Loss: 0.7197 - Validation Metrics: {'Precision@10': 0.6750625593876038, 'Recall@10': 0.5366712757935286, 'NDCG@10': 0.7825111672262751, 'MAP@10': 0.6607815415139379} - Time: 1600.62s
+Epoch 6/30 - Train Loss: 0.6888 - Val Loss: 0.7131 - Validation Metrics: {'Precision@10': 0.6500377756594453, 'Recall@10': 0.47522067107995547, 'NDCG@10': 0.7829093827132373, 'MAP@10': 0.6609822486032201} - Time: 1623.03s
+Epoch 7/30 - Train Loss: 0.6769 - Val Loss: 0.7089 - Validation Metrics: {'Precision@10': 0.6631577593833365, 'Recall@10': 0.505462544575134, 'NDCG@10': 0.782618896409652, 'MAP@10': 0.6608123234372704} - Time: 1708.53s
+Epoch 8/30 - Train Loss: 0.6662 - Val Loss: 0.7084 - Validation Metrics: {'Precision@10': 0.6531666213282554, 'Recall@10': 0.4872745034766504, 'NDCG@10': 0.7819504949955294, 'MAP@10': 0.6603455154063879} - Time: 1613.32s
+Epoch 9/30 - Train Loss: 0.6569 - Val Loss: 0.7076 - Validation Metrics: {'Precision@10': 0.6591251934502379, 'Recall@10': 0.4846545462744084, 'NDCG@10': 0.7823877597943544, 'MAP@10': 0.6606057567933301} - Time: 1501.30s
+Epoch 10/30 - Train Loss: 0.6451 - Val Loss: 0.7096 - Validation Metrics: {'Precision@10': 0.6462962708966261, 'Recall@10': 0.4650299667317943, 'NDCG@10': 0.7815283487348268, 'MAP@10': 0.6602366742314263} - Time: 1511.17s
+Early stopping tại epoch 10

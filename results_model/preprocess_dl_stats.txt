@@ -1,0 +1,5 @@
+Number of users: 25273
+Number of movies: 19370
+Train set size: 1380091
+Test set size: 345023
+Content feature dimension: 303

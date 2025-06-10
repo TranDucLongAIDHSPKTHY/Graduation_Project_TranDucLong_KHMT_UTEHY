@@ -1,0 +1,62 @@
+### Missing Values Before Processing:
+{'movies': movieId    0
+title      0
+genres     0
+dtype: int64, 'ratings': userId       0
+movieId      0
+rating       0
+timestamp    0
+dtype: int64, 'tags': userId        0
+movieId       0
+tag          16
+timestamp     0
+dtype: int64}
+
+### Duplicates Before Processing:
+{'movies': 0, 'ratings': 0, 'tags': 0}
+
+### Number of Users Before Processing: 162541
+### Number of Movies Before Processing: 59047
+
+### Number of Users After Processing: 25273
+### Number of Movies After Processing: 19370
+
+### Rating Distribution Per Movie After Processing:
+count    19370.000000
+mean        89.061125
+std         65.581522
+min         10.000000
+25%         23.000000
+50%         76.000000
+75%        159.000000
+max        208.000000
+Name: userId, dtype: float64
+
+### Rating Distribution Per User After Processing:
+count    25273.000000
+mean        68.259170
+std         61.907851
+min         11.000000
+25%         27.000000
+50%         42.000000
+75%         81.000000
+max        250.000000
+Name: movieId, dtype: float64
+
+
+### Missing Values After Processing (processed_movies.csv):
+userId          0
+movieId         0
+title           0
+year            0
+rating          0
+genres          0
+tag             0
+content         0
+rating_count    0
+rating_mean     0
+rating_std      0
+dtype: int64
+
+### Duplicates After Processing (processed_movies.csv):
+0

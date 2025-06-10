@@ -1,0 +1,5 @@
+Kết quả đánh giá Content-Based:
+Precision@10: 0.9599
+Recall@10: 0.2644
+NDCG@10: 0.9736
+MAP@10: 0.9778
