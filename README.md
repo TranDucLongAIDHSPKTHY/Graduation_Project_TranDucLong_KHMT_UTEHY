@@ -36,3 +36,6 @@ Thực hiện lần lượt các bước sau (hoàn thành bước trước mớ
 
 ## 4. Lưu ý
 Khi clone về thiết bị khác nên import lại các thư viện.
+
+## 5. Link báo cáo
+Truy cập link: https://drive.google.com/drive/folders/1RS00TQ_cXY7qJt0zOUabaruMSvaLfXK4
