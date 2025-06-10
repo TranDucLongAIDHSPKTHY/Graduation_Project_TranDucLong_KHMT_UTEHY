@@ -1,0 +1,10 @@
+{
+    "python.analysis.extraPaths": [
+        "./preprocessing",
+        "./models",
+        "./models",
+        "./evaluate_models/DL",
+        "./evaluate_models/ML"
+    ],
+    "git.ignoreLimitWarning": true
+}
